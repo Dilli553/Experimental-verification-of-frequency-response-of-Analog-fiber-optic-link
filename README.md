@@ -1,5 +1,5 @@
-# Experimental-verification-of-frequency-response-of-Analog-fiber-optic-link
-# Experiment: Fiber Analog Link (660nm & 950nm) and Frequency Response of Phototransistor Detector
+# Experimental-verification-of-frequency-response-of-Analog-fiber-optic-link                                                        DILLI BABU T Y 
+# Experiment: Fiber Analog Link (660nm & 950nm) and Frequency Response of Phototransistor Detector                                  212223060055
 
 ## Aim
 To study a 660nm & 950nm Fiber Analog Link and to analyze the frequency response of the phototransistor detector. The experiment investigates the relationship between the input signal and the received signal.
@@ -61,18 +61,11 @@ Fiber optic links can transmit both digital and analog signals. A fiber optic li
 ---
 
 ## Tabulation
-
-| Frequency (Hz) | Input Amplitude (Vi) | Output Amplitude (Vo) | Gain (Vo/Vi) | Gain (dB) |
-|----------------|-----------------------|------------------------|--------------|-----------|
-|                |                       |                        |              |           |
-
----
+<img width="1316" height="933" alt="image" src="https://github.com/user-attachments/assets/4e76aa33-c740-413a-97e7-9c0c904c0718" />
 
 ## Model Graph
-- Plot **Gain (dB)** vs. **Frequency (Hz)**.  
-- Identify the **3 dB down point** to determine bandwidth.  
+<img width="1600" height="1270" alt="image" src="https://github.com/user-attachments/assets/1ed4d03e-dacd-4fb0-af94-e08493e48dfe" />
 
----
 
 ## Result
 The frequency response of the phototransistor detector was studied. The 3 dB bandwidth was determined from the gain vs. frequency plot for both 660nm and 950nm fiber analog links.
